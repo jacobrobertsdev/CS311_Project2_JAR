@@ -6,7 +6,6 @@
 
 # Visual Studio files
 .vs/
-*.sln
 *.user
 *.suo
 
